@@ -1,5 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:15/10/2025
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -146,9 +145,11 @@ urlpatterns = [
     path('',views.powerlamp,name="PowerOfLampFilamentInAnIncandescentBulb"),
 ```
 ## SERVER SIDE PROCESSING:
+<img width="1611" height="381" alt="Screenshot 2025-10-15 184128" src="https://github.com/user-attachments/assets/dcbdff31-72f8-4d38-9e87-2e83bf514c2d" />
 
 
 ## HOMEPAGE:
+<img width="1901" height="1128" alt="Screenshot 2025-10-15 183943" src="https://github.com/user-attachments/assets/25214ba2-d819-4483-9511-ce77a79bdcef" />
 
 
 ## RESULT:
